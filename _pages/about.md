@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
+title: Associate Professor
+permalink:
 subtitle: <a href='https://community.mis.temple.edu/'>Temple University, Fox School of Business, Management Information Systems</a>.
 
 profile:

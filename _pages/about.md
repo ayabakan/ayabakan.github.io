@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Sezgin Ayabakan is Associate Professor of Management Information Systems and Harold Schaefer Fellow at Temple University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His research focuses on artificial intelligence, healthcare IT, and digital health, especially how AI-enabled tools shape patient outcomes, clinical decision making, care utilization, and organizational performance. He has published in leading journals including MIS Quarterly, Information Systems Research, Accounting, Organizations and Society, JAIS, and JAMIA. Recent work includes studies on conversational AI in online mental health screening, healthcare IT and denied claims, telehealth and healthcare utilization, and risk-based models in value-based healthcare. His prior chatbot research was cited by the World Health Organization, and his health information-sharing work was cited in the 21st Century Cures Act rulemaking, underscoring the policy relevance of his scholarship.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His current research agenda centers on AI in healthcare, including ambient AI in medical consultations, AI response time in health prescreening, medical AI devices, algorithmic impacts on patient safety, and causal AI for claim denials. His work has been supported by competitive internal funding, including the Humanities and Arts Research Program award in 2026, multiple Research Advancement and Impact Seedfunding awards in 2024 and 2025, and other internal grants supporting healthcare innovation projects. Through this portfolio, Ayabakan aims to generate rigorous and practically relevant evidence on how AI can improve healthcare delivery while addressing issues of trust, safety, and organizational effectiveness.
+
+Sezgin holds a B.S. in Industrial Engineering from Bilkent University, an M.S. in Industrial and Systems Engineering from the University of Florida, and a Ph.D. in Management Science from the University of Texas at Dallas.
+
+Outside of academia, Sezgin has also volunteered with organizations such as UNICEF and advocated for animals. He is committed to supporting charitable and voluntary organizations that work to improve the world.

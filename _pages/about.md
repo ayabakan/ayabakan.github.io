@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Associate Professor
+title: about
 permalink: /
-subtitle: <a href='https://community.mis.temple.edu/'>Temple University, Fox School of Business, Management Information Systems</a>.
+subtitle: Associate Professor, <a href='https://community.mis.temple.edu/'> Temple University, Fox School of Business, Management Information Systems</a>.
 
 profile:
   align: right

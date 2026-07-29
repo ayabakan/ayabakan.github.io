@@ -100,6 +100,8 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Setup Pages ⚙️
+        uses: actions/configure-pages@v5
       - name: Upload artifact 📦
         uses: actions/upload-pages-artifact@v3
 

@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-nav: true
+nav: false
 nav_order: 1
 permalink: /
 subtitle: Associate Professor, <a href='https://community.mis.temple.edu/ayabakan'> Temple University, Fox School of Business, Management Information Systems</a>.

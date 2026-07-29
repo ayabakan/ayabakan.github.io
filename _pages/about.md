@@ -10,7 +10,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: > 
+  more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,6 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Sezgin Ayabakan is an Associate Professor of Management Information Systems and Harold Schaefer Fellow at Temple University, Fox School of Business.
 
 His research examines how artificial intelligence (AI) and digital technologies shape healthcare delivery, patient outcomes, clinical decision-making, care utilization, and organizational performance. His work has appeared in MIS Quarterly, Information Systems Research, Accounting, Organizations and Society, Journal of the Association for Information Systems, and Journal of the American Medical Informatics Association.

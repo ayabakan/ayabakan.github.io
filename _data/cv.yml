@@ -1,25 +1,15 @@
 cv:
   name: Sezgin Ayabakan
-  label: Associate Professor
+  headline: Associate Professor
   email: ayabakan@temple.edu
   location: Philadelphia, PA
-  image: ""
-  summary: Management Information Systems Department, Fox School of Business, Temple University.
+  website: https://community.mis.temple.edu/ayabakan
 
   social_networks:
     - network: LinkedIn
       username: ayabakan
     - network: ResearchGate
       username: Sezgin_Ayabakan
-    - network: Website
-      username: community.mis.temple.edu/ayabakan
-
-  address:
-    street: 1801 Liacouras Walk
-    city: Philadelphia
-    region: Pennsylvania
-    postalCode: "19122"
-    countryCode: US
 
   sections:
     Education:
@@ -29,7 +19,7 @@ cv:
         studyType: Ph.D.
         end_date: 2014
         highlights:
-          - Specialization: Management Information Systems
+          - "Specialization: Management Information Systems"
 
       - institution: University of Florida
         location: Gainesville, FL
@@ -78,9 +68,9 @@ cv:
 
     Research Interests:
       - name: Healthcare IT
-        keywords: "Electronic health records, telehealth, hospital FinTech & health outcomes" 
+        keywords: "Electronic health records, telehealth, hospital FinTech & health outcomes"
       - name: Business Value of Information Systems
-        keywords: "IT productivity, IT-enabled production capability" 
+        keywords: "IT productivity, IT-enabled production capability"
       - name: Artificial Intelligence & Social Media
         keywords: "Chatbots, medical AI devices, word-of-mouth & access to care"
 
@@ -91,85 +81,85 @@ cv:
         keywords: "Econometrics: Cross-sectional and panel data estimations based on IS and economic theories; Data Analytics & Machine Learning: Regression, clustering, classification, natural language processing, decision trees, neural networks"
 
     Awards:
-      - title: MIS Researcher of the Year Award
+      - name: MIS Researcher of the Year Award
         date: 2026
         awarder: MIS Department, Temple University
 
-      - title: Faculty Leadership Award
+      - name: Faculty Leadership Award
         date: 2026
         awarder: MIS Department, Temple University
 
-      - title: Faculty Advisor of the Year Award
+      - name: Faculty Advisor of the Year Award
         date: 2024
         awarder: Association for Information Systems Student Chapters
         summary: Recognized for the 2024–2025 period.
 
-      - title: Dean's Research Honor Roll
+      - name: Dean's Research Honor Roll
         date: 2023
         awarder: Fox School of Business
         summary: Recognized for the 2023–2024 period.
 
-      - title: Best Paper Award
+      - name: Best Paper Award
         date: 2023
         awarder: "Association for Information Systems, Special Interest Group: Advances in Sourcing"
         summary: 'For the paper "Value Implication of Sourcing Electronic Health Records: The Role of Practice Integration in Hospitals".'
 
-      - title: Best Health IT in Action Paper Award
+      - name: Best Health IT in Action Paper Award
         date: 2022
         awarder: Conference on Health IT and Analytics
         summary: Washington, D.C. Selected as the most impactful Health IT in Action case study for practice impact.
 
-      - title: Winner, Big Ideas Competition in Healthcare and Biopharma Industry
+      - name: Winner, Big Ideas Competition in Healthcare and Biopharma Industry
         date: 2020
         awarder: Fox School of Business, Temple University
         summary: Grant of $10,000.
 
-      - title: Young Researcher Award
+      - name: Young Researcher Award
         date: 2019
         awarder: Conference on Health IT and Analytics
         summary: Washington, D.C.
 
-      - title: Best Conference Paper Runner-Up Award
+      - name: Best Conference Paper Runner-Up Award
         date: 2019
         awarder: Conference on Health IT and Analytics
         summary: Washington, D.C.
 
-      - title: Faculty Recognition Award
+      - name: Faculty Recognition Award
         date: 2016
         awarder: Achievement and Learning Center, University of Baltimore
         summary: For promoting learning services and supporting tutors.
 
-      - title: Best Conference Paper Runner-Up Award
+      - name: Best Conference Paper Runner-Up Award
         date: 2014
         awarder: International Conference on Information Systems (ICIS)
 
-      - title: Research Assistantship
+      - name: Research Assistantship
         date: 2012
         awarder: University of Texas Southwestern Medical Center
         summary: "Under grant support, contract number 34056002 (2012–2013)."
 
     Grants:
-      - title: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
+      - name: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
         date: 2026
         awarder: Humanities and Art Program (HARP), Office of the Vice President for Research
         summary: "Grant #276842. Award amount: $7,500. Co-investigator: Ruihan Yang (PhD Student)."
 
-      - title: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
+      - name: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
         date: 2025
         awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
         summary: "Award amount: $2,000. Co-investigator: Ruihan Yang (PhD Student)."
 
-      - title: "Time Matters: How AI Response Time Shapes Patient Perceptions in Health Prescreening"
+      - name: "Time Matters: How AI Response Time Shapes Patient Perceptions in Health Prescreening"
         date: 2025
         awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
         summary: "Award amount: $1,000. Co-investigator: Ruihan Yang (PhD Student)."
 
-      - title: "Impact of Algorithms on Patient Safety Outcomes: An Empirical Investigation"
+      - name: "Impact of Algorithms on Patient Safety Outcomes: An Empirical Investigation"
         date: 2024
         awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
         summary: "Award amount: $1,500. Co-investigator: Shuhua Wu (PhD Student)."
 
-      - title: Developing a Post-Baccalaureate Certificate Program in Predictive Analytics and Knowledge Discovery from Data
+      - name: Developing a Post-Baccalaureate Certificate Program in Predictive Analytics and Knowledge Discovery from Data
         date: 2014
         awarder: Fund for Excellence Program, University of Baltimore
         summary: "Award amount: $22,988 for two years."
@@ -182,7 +172,7 @@ cv:
           - Indranil Bardhan
           - Rajiv Banker
         publisher: Accounting, Organizations and Society
-        releaseDate: 2025
+        date: 2025
         summary: "Volume 115, 101614. FT50 Journal."
 
       - title: "Judgmental Bot: Conversational Agents in Online Mental Health Screening"
@@ -192,7 +182,7 @@ cv:
           - Sezgin Ayabakan
           - Alan Dennis
         publisher: MIS Quarterly
-        releaseDate: 2025
+        date: 2025
         summary: "49(4), 1319-1356."
 
       - title: "An Organizational Routines Theory of Employee Well-being: Explaining the Love-Hate Relationship between Electronic Health Records and Clinicians"
@@ -203,7 +193,7 @@ cv:
           - Sezgin Ayabakan
           - Dursun Delen
         publisher: Journal of the Association for Information Systems
-        releaseDate: 2025
+        date: 2025
         summary: "26(3), 589-632."
 
       - title: The Interplay between Healthcare Information Technologies and Denied Claims
@@ -212,7 +202,7 @@ cv:
           - Hilal Atasoy
           - Min-Seok Pang
         publisher: MIS Quarterly
-        releaseDate: 2025
+        date: 2025
         summary: "49(3), 1169-1184."
 
       - title: Impact of Telehealth and Process Virtualization on Healthcare Utilization
@@ -221,7 +211,7 @@ cv:
           - Indranil Bardhan
           - Zhiqiang Zheng
         publisher: Information Systems Research
-        releaseDate: 2024
+        date: 2024
         summary: "35(1), 45-65. Picked up by 6 news outlets."
 
       - title: "Value Implication of Sourcing Electronic Health Records: The Role of Practice Integration in Hospitals"
@@ -230,7 +220,7 @@ cv:
           - Chenzhang Bao
           - Sezgin Ayabakan
         publisher: Information Systems Research
-        releaseDate: 2023
+        date: 2023
         summary: "34(3), 1169-1190."
 
       - title: The Impact of Health Information Sharing on Duplicate Testing
@@ -240,7 +230,7 @@ cv:
           - Zhiqiang Zheng
           - Kirk Kirksey
         publisher: MIS Quarterly
-        releaseDate: 2017
+        date: 2017
         summary: "41(4), 1083-1103. Cited by 21st Century Cures Act, 84 Fed. Reg. 7424 (2019) (45 C.F.R. § 170,171)."
 
       - title: A Data Envelopment Analysis Approach to Estimate IT-Enabled Production Capability
@@ -249,7 +239,7 @@ cv:
           - Indranil Bardhan
           - Zhiqiang Zheng
         publisher: MIS Quarterly
-        releaseDate: 2017
+        date: 2017
         summary: "41(1), 189-205."
 
       - title: "Relationship between electronic health records strategy and user satisfaction: A longitudinal study using clinicians’ online reviews"
@@ -260,7 +250,7 @@ cv:
           - Sezgin Ayabakan
           - Dursun Delen
         publisher: Journal of the American Medical Informatics Association
-        releaseDate: 2022
+        date: 2022
         summary: "29(9), 1577-1583. Leading health informatics journal (impact factor 7.492); AIS SIG-Health recommended journal."
 
       - title: Triple Aim and the Hospital Readmission Reduction Program
@@ -269,7 +259,7 @@ cv:
           - Indranil Bardhan
           - Zhiqiang Zheng
         publisher: Health Services Research and Managerial Epidemiology
-        releaseDate: 2021
+        date: 2021
         summary: "8, 2333392821993704."
 
       - title: User reactions to COVID-19 screening chatbots from reputable providers
@@ -279,7 +269,7 @@ cv:
           - Ryan Raimi
           - Sezgin Ayabakan
         publisher: Journal of the American Medical Informatics Association
-        releaseDate: 2020
+        date: 2020
         summary: "27(11), 1727-1731. Cited by WHO (2021) Ethics and governance of AI for health; picked up by 17 news outlets; leading health informatics journal (impact factor 7.492)."
 
     Working Papers:
@@ -336,7 +326,7 @@ cv:
           - Sezgin Ayabakan
           - Min-Seok Pang
         publisher: Americas Conference on Information Systems (AMCIS)
-        releaseDate: 2025
+        date: 2025
         summary: Aug 14-16, 2025. Montreal, Canada.
 
       - title: Patient Portals Facilitating EHR Error Discovery and Reporting
@@ -345,7 +335,7 @@ cv:
           - Sezgin Ayabakan
           - Kevin Mahoney
         publisher: International Conference on Information Systems (ICIS)
-        releaseDate: 2021
+        date: 2021
         summary: Dec 12-15, 2021. Austin, TX.
 
       - title: Did Hospital Readmission Reduction Program Achieve the Triple Aim Goals?
@@ -354,7 +344,7 @@ cv:
           - Sezgin Ayabakan
           - Zhiqiang Zheng
         publisher: Pacific Asia Conference on Information Systems (PACIS)
-        releaseDate: 2018
+        date: 2018
         summary: June 26-30, 2018. Yokohama, Japan.
 
       - title: What Drives Readmission? A New Perspective from Hidden Markov Model Analysis
@@ -363,7 +353,7 @@ cv:
           - Indranil Bardhan
           - Zhiqiang Zheng
         publisher: International Conference on Information Systems (ICIS)
-        releaseDate: 2016
+        date: 2016
         summary: December 11-14, 2016. Dublin, Ireland.
 
       - title: "Value of Health Information Sharing in Reducing Healthcare Waste: An analysis of duplicate testing across hospitals"
@@ -373,7 +363,7 @@ cv:
           - Zhiqiang Zheng
           - Kirk Kirksey
         publisher: International Conference on Information Systems (ICIS)
-        releaseDate: 2014
+        date: 2014
         summary: December 14-17, 2014. Auckland, New Zealand. Best Conference Paper Runner-up Award.
 
       - title: "The Impact of IT-enabled Manufacturing Capabilities on Plant Profitability: New Models and Evidence"
@@ -382,7 +372,7 @@ cv:
           - Indranil Bardhan
           - Zhiqiang Zheng
         publisher: International Conference on Information Systems (ICIS)
-        releaseDate: 2012
+        date: 2012
         summary: December 2012. Orlando, FL.
 
     Reports:
@@ -393,63 +383,62 @@ cv:
           - John Callahan
           - Patria Julnes
           - Ryan Frediksson
-        releaseDate: 2015
+        date: 2015
         publisher: Schaefer Center for Public Policy, University of Baltimore
         summary: Baltimore, MD.
-
     Invited Talks:
-      - title: University of Minnesota
-        releaseDate: 2025-03
+      - name: University of Minnesota
+        date: 2025-03
         summary: Minneapolis, MN.
 
-      - title: Stony Brook University
-        releaseDate: 2024-01
+      - name: Stony Brook University
+        date: 2024-01
         summary: Stony Brook, NY.
 
-      - title: Lehigh University
-        releaseDate: 2023-11
+      - name: Lehigh University
+        date: 2023-11
         summary: Bethlehem, PA.
 
-      - title: Oklahoma University
-        releaseDate: 2023-11
+      - name: Oklahoma University
+        date: 2023-11
         summary: Norman, OK.
 
-      - title: Drexel University
-        releaseDate: 2022-11
+      - name: Drexel University
+        date: 2022-11
         summary: Philadelphia, PA.
 
-      - title: Temple University, Fox Translational Research Center
-        releaseDate: 2020-06
+      - name: Temple University, Fox Translational Research Center
+        date: 2020-06
         summary: "The Translational Showcase - Panel Talk: Telehealth. Online."
 
-      - title: University at Buffalo
-        releaseDate: 2020-05
+      - name: University at Buffalo
+        date: 2020-05
         summary: Online.
 
-      - title: University of Rhode Island
-        releaseDate: 2018-04
+      - name: University of Rhode Island
+        date: 2018-04
         summary: Kingston, RI.
 
-      - title: Saint Joseph’s University
-        releaseDate: 2017-01
+      - name: Saint Joseph’s University
+        date: 2017-01
         summary: Philadelphia, PA.
 
-      - title: Temple University
-        releaseDate: 2017-01
+      - name: Temple University
+        date: 2017-01
         summary: Philadelphia, PA.
 
-      - title: University of Connecticut
-        releaseDate: 2017-01
+      - name: University of Connecticut
+        date: 2017-01
         summary: Mansfield, CT.
 
-      - title: Stevens Institute of Technology
-        releaseDate: 2017-01
+      - name: Stevens Institute of Technology
+        date: 2017-01
         summary: Hoboken, NJ.
 
-      - title: Chinese University of Hong Kong
-        releaseDate: 2017-01
+      - name: Chinese University of Hong Kong
+        date: 2017-01
         summary: Hong Kong.
 
-      - title: Tulane University
-        releaseDate: 2016-11
+      - name: Tulane University
+        date: 2016-11
         summary: New Orleans, LA.

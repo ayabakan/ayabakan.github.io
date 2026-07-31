@@ -69,16 +69,21 @@ cv:
     Interests:
       - name: Healthcare IT
         keywords: "Electronic health records, telehealth, hospital FinTech & health outcomes"
+        
       - name: Business Value of Information Systems
         keywords: "IT productivity, IT-enabled production capability"
+        
       - name: Artificial Intelligence & Social Media
         keywords: "Chatbots, medical AI devices, word-of-mouth & access to care"
 
     Skills:
-      - name: Methodologies
-        level: Advanced
+      - name: Econometrics
         icon: fa-solid fa-hashtag
-        keywords: "Econometrics: Cross-sectional and panel data estimations based on IS and economic theories; Data Analytics & Machine Learning: Regression, clustering, classification, natural language processing, decision trees, neural networks"
+        keywords: "Cross-sectional and panel data estimations based on IS and economic theories"
+        
+      - name: Data Analytics & Machine Learning 
+        icon: fa-solid fa-hashtag
+        keywords: "Regression, clustering, classification, natural language processing, decision trees, neural networks"
 
     Awards:
       - name: MIS Researcher of the Year Award

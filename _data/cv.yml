@@ -302,3 +302,125 @@ cv:
           - Sezgin Ayabakan
           - Sunil Wattal
         summary: Preparing for submission (rejected from JMIS).
+
+    Conference Proceedings:
+      - title: The Role of Hospital Revenue Cycle Management Systems in Mitigating Personal Bankruptcy Filings
+        authors:
+          - Wu, Shuhua
+          - Chenzhang Bao
+          - Sezgin Ayabakan
+          - Min-Seok Pang
+        publisher: Americas Conference on Information Systems (AMCIS)
+        releaseDate: 2025
+        summary: Aug 14-16, 2025. Montreal, Canada.
+
+      - title: Patient Portals Facilitating EHR Error Discovery and Reporting
+        authors:
+          - Raimi, Ryan
+          - Sezgin Ayabakan
+          - Kevin Mahoney
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2021
+        summary: Dec 12-15, 2021. Austin, TX.
+
+      - title: Did Hospital Readmission Reduction Program Achieve the Triple Aim Goals?
+        authors:
+          - Bardhan, Indranil
+          - Sezgin Ayabakan
+          - Zhiqiang Zheng
+        publisher: Pacific Asia Conference on Information Systems (PACIS)
+        releaseDate: 2018
+        summary: June 26-30, 2018. Yokohama, Japan.
+
+      - title: What Drives Readmission? A New Perspective from Hidden Markov Model Analysis
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2016
+        summary: December 11-14, 2016. Dublin, Ireland.
+
+      - title: Value of Health Information Sharing in Reducing Healthcare Waste: An analysis of duplicate testing across hospitals
+        authors:
+          - Bardhan, Indranil
+          - Sezgin Ayabakan
+          - Zhiqiang Zheng
+          - Kirk Kirksey
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2014
+        summary: December 14-17, 2014. Auckland, New Zealand. Best Conference Paper Runner-up Award.
+
+      - title: The Impact of IT-enabled Manufacturing Capabilities on Plant Profitability: New Models and Evidence
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2012
+        summary: December 2012. Orlando, FL.
+
+    Reports:
+      - title: Maryland Million Hearts Evaluation for Maryland Department of Health and Mental Hygiene - Center for Chronic Disease Prevention and Control
+        authors:
+          - Di Franco, Tina
+          - Sezgin Ayabakan
+          - John Callahan
+          - Patria Julnes
+          - Ryan Frediksson
+        releaseDate: 2015
+        publisher: Schaefer Center for Public Policy, University of Baltimore
+        summary: Baltimore, MD.
+
+    Invited Talks:
+      - title: University of Minnesota
+        releaseDate: 2025-03
+        summary: Minneapolis, MN.
+
+      - title: Stony Brook University
+        releaseDate: 2024-01
+        summary: Stony Brook, NY.
+
+      - title: Lehigh University
+        releaseDate: 2023-11
+        summary: Bethlehem, PA.
+
+      - title: Oklahoma University
+        releaseDate: 2023-11
+        summary: Norman, OK.
+
+      - title: Drexel University
+        releaseDate: 2022-11
+        summary: Philadelphia, PA.
+
+      - title: Temple University, Fox Translational Research Center
+        releaseDate: 2020-06
+        summary: "The Translational Showcase - Panel Talk: Telehealth. Online."
+
+      - title: University at Buffalo
+        releaseDate: 2020-05
+        summary: Online.
+
+      - title: University of Rhode Island
+        releaseDate: 2018-04
+        summary: Kingston, RI.
+
+      - title: Saint Joseph’s University
+        releaseDate: 2017-01
+        summary: Philadelphia, PA.
+
+      - title: Temple University
+        releaseDate: 2017-01
+        summary: Philadelphia, PA.
+
+      - title: University of Connecticut
+        releaseDate: 2017-01
+        summary: Mansfield, CT.
+
+      - title: Steven’s Institute of Technology
+        releaseDate: 2017-01
+        summary: Hoboken, NJ.
+
+      - title: Chinese University of Hong Kong
+        releaseDate: 2017-01
+        summary: Hong Kong.

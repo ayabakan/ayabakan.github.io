@@ -8,11 +8,11 @@ cv:
 
   social_networks:
     - network: LinkedIn
-      username: sezgin_ayabakan
+      username: ayabakan
     - network: ResearchGate
       username: Sezgin_Ayabakan
     - network: Website
-      username: community.rmis.temple.edu/ayabakan
+      username: community.mis.temple.edu/ayabakan
 
   address:
     street: 1801 Liacouras Walk
@@ -30,23 +30,18 @@ cv:
         end_date: 2014
         highlights:
           - Specialization: Management Information Systems
-          - Degree completed in August 2014
 
       - institution: University of Florida
         location: Gainesville, FL
         area: Industrial and Systems Engineering
         studyType: M.S.
         end_date: 2008
-        highlights:
-          - Degree completed in December 2008
 
       - institution: Bilkent University
         location: Ankara, Turkey
         area: Industrial Engineering
         studyType: B.S.
         end_date: 2007
-        highlights:
-          - Degree completed in May 2007
 
     Experience:
       - company: Temple University
@@ -81,9 +76,13 @@ cv:
           - Evaluated Million Hearts project for Maryland Department of Health and Mental Hygiene
           - Trained data analysts on data-based decision-making at the Social Security Administration (Headquarter)
 
-    Interests:
-      - name: Research Interests
-        keywords: "Healthcare IT: Electronic health records, telehealth, hospital FinTech & health outcomes; Business Value of Information Systems: IT productivity, IT-enabled production capability; Artificial Intelligence & Social Media: Chatbots, medical AI devices, word-of-mouth & access to care"
+    Research Interests:
+      - name: Healthcare IT
+        keywords: "Electronic health records, telehealth, hospital FinTech & health outcomes" 
+      - name: Business Value of Information Systems
+        keywords: "IT productivity, IT-enabled production capability" 
+      - name: Artificial Intelligence & Social Media
+        keywords: "Chatbots, medical AI devices, word-of-mouth & access to care"
 
     Skills:
       - name: Methodologies
@@ -443,7 +442,7 @@ cv:
         releaseDate: 2017-01
         summary: Mansfield, CT.
 
-      - title: Steven’s Institute of Technology
+      - title: Stevens Institute of Technology
         releaseDate: 2017-01
         summary: Hoboken, NJ.
 

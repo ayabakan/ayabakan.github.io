@@ -1,6 +1,6 @@
 cv:
   name: Sezgin Ayabakan
-  headline: Associate Professor
+  label: Associate Professor
   email: ayabakan@temple.edu
   location: Philadelphia, PA
   website: https://community.mis.temple.edu/ayabakan
@@ -148,29 +148,29 @@ cv:
         summary: "Under grant support, contract number 34056002 (2012–2013)."
 
     Grants:
-      - name: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
+      - title: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
         date: 2026
-        awarder: Humanities and Art Program (HARP), Office of the Vice President for Research
+        awarder: "Humanities and Art Program (HARP), Office of the Vice President for Research"
         summary: "Grant #276842. Award amount: $7,500. Co-investigator: Ruihan Yang (PhD Student)."
-
-      - name: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
+    
+      - title: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
         date: 2025
         awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
         summary: "Award amount: $2,000. Co-investigator: Ruihan Yang (PhD Student)."
-
-      - name: "Time Matters: How AI Response Time Shapes Patient Perceptions in Health Prescreening"
+    
+      - title: "Time Matters: How AI Response Time Shapes Patient Perceptions in Health Prescreening"
         date: 2025
         awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
         summary: "Award amount: $1,000. Co-investigator: Ruihan Yang (PhD Student)."
-
-      - name: "Impact of Algorithms on Patient Safety Outcomes: An Empirical Investigation"
+    
+      - title: "Impact of Algorithms on Patient Safety Outcomes: An Empirical Investigation"
         date: 2024
         awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
         summary: "Award amount: $1,500. Co-investigator: Shuhua Wu (PhD Student)."
-
-      - name: Developing a Post-Baccalaureate Certificate Program in Predictive Analytics and Knowledge Discovery from Data
+  
+      - title: "Developing a Post-Baccalaureate Certificate Program in Predictive Analytics and Knowledge Discovery from Data"
         date: 2014
-        awarder: Fund for Excellence Program, University of Baltimore
+        awarder: "Fund for Excellence Program, University of Baltimore"
         summary: "Award amount: $22,988 for two years."
 
     Publications:

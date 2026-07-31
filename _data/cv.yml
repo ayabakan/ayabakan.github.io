@@ -1,189 +1,455 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Sezgin Ayabakan
+  label: Associate Professor
+  email: ayabakan@temple.edu
+  location: Philadelphia, PA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Management Information Systems Department, Fox School of Business, Temple University.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: ayabakan
+    - network: ResearchGate
+      username: Sezgin_Ayabakan
+    - network: Website
+      username: community.mis.temple.edu/ayabakan
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 1801 Liacouras Walk
+    city: Philadelphia
+    region: Pennsylvania
+    postalCode: "19122"
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Texas at Dallas
+        location: Dallas, TX
+        area: Management Science
+        studyType: Ph.D.
+        end_date: 2014
         highlights:
-          - Description 1.
-          - Description 2.
+          - Specialization: Management Information Systems
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Florida
+        location: Gainesville, FL
+        area: Industrial and Systems Engineering
+        studyType: M.S.
+        end_date: 2008
+
+      - institution: Bilkent University
+        location: Ankara, Turkey
+        area: Industrial Engineering
+        studyType: B.S.
+        end_date: 2007
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Temple University
+        position: Associate Professor
+        location: Philadelphia, PA
+        start_date: 2024-07-01
+
+      - company: Temple University
+        position: Harold Schaefer Fellow
+        location: Philadelphia, PA
+        start_date: 2024-07-01
+
+      - company: Temple University
+        position: Assistant Professor
+        location: Philadelphia, PA
+        start_date: 2017-07-01
+        end_date: 2024-06-30
+
+      - company: University of Baltimore
+        position: Assistant Professor
+        location: Baltimore, MD
+        start_date: 2014-08-01
+        end_date: 2017-05-31
+
+      - company: Schaefer Center for Public Policy, University of Baltimore
+        position: Faculty Fellow
+        location: Baltimore, MD
+        start_date: 2014-08-01
+        end_date: 2017-05-31
         highlights:
-          - Relativity
-          - Description 2.
+          - Worked on sponsored projects
+          - Evaluated Million Hearts project for Maryland Department of Health and Mental Hygiene
+          - Trained data analysts on data-based decision-making at the Social Security Administration (Headquarter)
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Research Interests:
+      - name: Healthcare IT
+        keywords: "Electronic health records, telehealth, hospital FinTech & health outcomes" 
+      - name: Business Value of Information Systems
+        keywords: "IT productivity, IT-enabled production capability" 
+      - name: Artificial Intelligence & Social Media
+        keywords: "Chatbots, medical AI devices, word-of-mouth & access to care"
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Methodologies
+        level: Advanced
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Econometrics: Cross-sectional and panel data estimations based on IS and economic theories; Data Analytics & Machine Learning: Regression, clustering, classification, natural language processing, decision trees, neural networks"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Awards:
+      - title: MIS Researcher of the Year Award
+        date: 2026
+        awarder: MIS Department, Temple University
 
-      - name: English
-        summary: "Fluent"
+      - title: Faculty Leadership Award
+        date: 2026
+        awarder: MIS Department, Temple University
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Faculty Advisor of the Year Award
+        date: 2024
+        awarder: Association for Information Systems Student Chapters
+        summary: Recognized for the 2024–2025 period.
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - title: Dean's Research Honor Roll
+        date: 2023
+        awarder: Fox School of Business
+        summary: Recognized for the 2023–2024 period.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - title: Best Paper Award
+        date: 2023
+        awarder: "Association for Information Systems, Special Interest Group: Advances in Sourcing"
+        summary: 'For the paper "Value Implication of Sourcing Electronic Health Records: The Role of Practice Integration in Hospitals".'
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: Best Health IT in Action Paper Award
+        date: 2022
+        awarder: Conference on Health IT and Analytics
+        summary: Washington, D.C. Selected as the most impactful Health IT in Action case study for practice impact.
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - title: Winner, Big Ideas Competition in Healthcare and Biopharma Industry
+        date: 2020
+        awarder: Fox School of Business, Temple University
+        summary: Grant of $10,000.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: Young Researcher Award
+        date: 2019
+        awarder: Conference on Health IT and Analytics
+        summary: Washington, D.C.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: Best Conference Paper Runner-Up Award
+        date: 2019
+        awarder: Conference on Health IT and Analytics
+        summary: Washington, D.C.
+
+      - title: Faculty Recognition Award
+        date: 2016
+        awarder: Achievement and Learning Center, University of Baltimore
+        summary: For promoting learning services and supporting tutors.
+
+      - title: Best Conference Paper Runner-Up Award
+        date: 2014
+        awarder: International Conference on Information Systems (ICIS)
+
+      - title: Research Assistantship
+        date: 2012
+        awarder: University of Texas Southwestern Medical Center
+        summary: "Under grant support, contract number 34056002 (2012–2013)."
+
+    Grants:
+      - title: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
+        date: 2026
+        awarder: Humanities and Art Program (HARP), Office of the Vice President for Research
+        summary: "Grant #276842. Award amount: $7,500. Co-investigator: Ruihan Yang (PhD Student)."
+
+      - title: "Beyond Efficiency: How Ambient AI Shapes Physician Behavior and Patient Perception in Medical Consultations"
+        date: 2025
+        awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
+        summary: "Award amount: $2,000. Co-investigator: Ruihan Yang (PhD Student)."
+
+      - title: "Time Matters: How AI Response Time Shapes Patient Perceptions in Health Prescreening"
+        date: 2025
+        awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
+        summary: "Award amount: $1,000. Co-investigator: Ruihan Yang (PhD Student)."
+
+      - title: "Impact of Algorithms on Patient Safety Outcomes: An Empirical Investigation"
+        date: 2024
+        awarder: "Research Advancement and Impact Seedfunding (RAIS) Symposium, The Fox School's Office of Research"
+        summary: "Award amount: $1,500. Co-investigator: Shuhua Wu (PhD Student)."
+
+      - title: Developing a Post-Baccalaureate Certificate Program in Predictive Analytics and Knowledge Discovery from Data
+        date: 2014
+        awarder: Fund for Excellence Program, University of Baltimore
+        summary: "Award amount: $22,988 for two years."
+
+    Publications:
+      - title: "Performance of risk-based models in value-based healthcare: Evidence from accountable care organizations"
+        authors:
+          - Tripathi, Muktak
+          - Sezgin Ayabakan
+          - Indranil Bardhan
+          - Rajiv Banker
+        publisher: Accounting, Organizations and Society
+        releaseDate: 2025
+        summary: "Volume 115, 101614. FT50 Journal."
+
+      - title: "Judgmental Bot: Conversational Agents in Online Mental Health Screening"
+        authors:
+          - Raimi, Ryan
+          - Antino Kim
+          - Sezgin Ayabakan
+          - Alan Dennis
+        publisher: MIS Quarterly
+        releaseDate: 2025
+        summary: "49(4), 1319-1356."
+
+      - title: "An Organizational Routines Theory of Employee Well-being: Explaining the Love-Hate Relationship between Electronic Health Records and Clinicians"
+        authors:
+          - Srivastava, Ankita
+          - Surya Ayyalasomayajula
+          - Chenzhang Bao
+          - Sezgin Ayabakan
+          - Dursun Delen
+        publisher: Journal of the Association for Information Systems
+        releaseDate: 2025
+        summary: "26(3), 589-632."
+
+      - title: The Interplay between Healthcare Information Technologies and Denied Claims
+        authors:
+          - Ayabakan, Sezgin
+          - Hilal Atasoy
+          - Min-Seok Pang
+        publisher: MIS Quarterly
+        releaseDate: 2025
+        summary: "49(3), 1169-1184."
+
+      - title: Impact of Telehealth and Process Virtualization on Healthcare Utilization
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+        publisher: Information Systems Research
+        releaseDate: 2024
+        summary: "35(1), 45-65. Picked up by 6 news outlets."
+
+      - title: "Value Implication of Sourcing Electronic Health Records: The Role of Practice Integration in Hospitals"
+        authors:
+          - Bardhan, Indranil
+          - Chenzhang Bao
+          - Sezgin Ayabakan
+        publisher: Information Systems Research
+        releaseDate: 2023
+        summary: "34(3), 1169-1190."
+
+      - title: The Impact of Health Information Sharing on Duplicate Testing
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+          - Kirk Kirksey
+        publisher: MIS Quarterly
+        releaseDate: 2017
+        summary: "41(4), 1083-1103. Cited by 21st Century Cures Act, 84 Fed. Reg. 7424 (2019) (45 C.F.R. § 170,171)."
+
+      - title: A Data Envelopment Analysis Approach to Estimate IT-Enabled Production Capability
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+        publisher: MIS Quarterly
+        releaseDate: 2017
+        summary: "41(1), 189-205."
+
+      - title: "Relationship between electronic health records strategy and user satisfaction: A longitudinal study using clinicians’ online reviews"
+        authors:
+          - Srivastava, Ankita
+          - Surya Ayyalasomayajula
+          - Chenzhang Bao
+          - Sezgin Ayabakan
+          - Dursun Delen
+        publisher: Journal of the American Medical Informatics Association
+        releaseDate: 2022
+        summary: "29(9), 1577-1583. Leading health informatics journal (impact factor 7.492); AIS SIG-Health recommended journal."
+
+      - title: Triple Aim and the Hospital Readmission Reduction Program
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+        publisher: Health Services Research and Managerial Epidemiology
+        releaseDate: 2021
+        summary: "8, 2333392821993704."
+
+      - title: User reactions to COVID-19 screening chatbots from reputable providers
+        authors:
+          - Dennis, Alan
+          - Antino Kim
+          - Ryan Raimi
+          - Sezgin Ayabakan
+        publisher: Journal of the American Medical Informatics Association
+        releaseDate: 2020
+        summary: "27(11), 1727-1731. Cited by WHO (2021) Ethics and governance of AI for health; picked up by 17 news outlets; leading health informatics journal (impact factor 7.492)."
+
+    Working Papers:
+      - title: The Role of Hospital Revenue Cycle Management Systems in Mitigating Personal Bankruptcy Filings
+        authors:
+          - Wu, Shuhua
+          - Chenzhang Bao
+          - Sezgin Ayabakan
+          - Min-Seok Pang
+        publisher: Production and Operations Management
+        summary: Under review, 2nd round.
+
+      - title: "Drivers of Telehealth Utilization for Mental Health Care: A Longitudinal Analysis Across a Pandemic Disruption"
+        authors:
+          - Tekriwal, Medha
+          - Sezgin Ayabakan
+          - Naveen Kumar
+          - Taylor Sawyer
+          - Rachel Umoren
+        publisher: International Journal of Medical Informatics
+        summary: Under review, 2nd round.
+
+      - title: "Gender Dynamics and Knowledge Engagement in Digital Communities of Practice: Evidence from the Pathology Community on X"
+        authors:
+          - Gunarathne, Priyanga
+          - Ruba Aljafari
+          - Sezgin Ayabakan
+          - Samer Khader
+          - Ibrahim Kulac
+        publisher: MIS Quarterly
+        summary: Under review, 1st round.
+
+      - title: "The Impact of Public Word-of-Mouth on Disaster Response: Analyzing Physician’s Prescription Practice"
+        authors:
+          - Nittala, Lakshmi
+          - Sezgin Ayabakan
+          - Subodha Kumar
+          - Dileep Unnikrishnan
+          - Dileep Raman
+        summary: Preparing for submission (rejected from ISR).
+
+      - title: Leveraging Memory Cues on a Healthcare Crowdsourcing Platform for Engaging Crowds and Experts
+        authors:
+          - Gao, Yiwen
+          - Sezgin Ayabakan
+          - Sunil Wattal
+        summary: Preparing for submission (rejected from JMIS).
+
+    Conference Proceedings:
+      - title: The Role of Hospital Revenue Cycle Management Systems in Mitigating Personal Bankruptcy Filings
+        authors:
+          - Wu, Shuhua
+          - Chenzhang Bao
+          - Sezgin Ayabakan
+          - Min-Seok Pang
+        publisher: Americas Conference on Information Systems (AMCIS)
+        releaseDate: 2025
+        summary: Aug 14-16, 2025. Montreal, Canada.
+
+      - title: Patient Portals Facilitating EHR Error Discovery and Reporting
+        authors:
+          - Raimi, Ryan
+          - Sezgin Ayabakan
+          - Kevin Mahoney
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2021
+        summary: Dec 12-15, 2021. Austin, TX.
+
+      - title: Did Hospital Readmission Reduction Program Achieve the Triple Aim Goals?
+        authors:
+          - Bardhan, Indranil
+          - Sezgin Ayabakan
+          - Zhiqiang Zheng
+        publisher: Pacific Asia Conference on Information Systems (PACIS)
+        releaseDate: 2018
+        summary: June 26-30, 2018. Yokohama, Japan.
+
+      - title: What Drives Readmission? A New Perspective from Hidden Markov Model Analysis
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2016
+        summary: December 11-14, 2016. Dublin, Ireland.
+
+      - title: "Value of Health Information Sharing in Reducing Healthcare Waste: An analysis of duplicate testing across hospitals"
+        authors:
+          - Bardhan, Indranil
+          - Sezgin Ayabakan
+          - Zhiqiang Zheng
+          - Kirk Kirksey
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2014
+        summary: December 14-17, 2014. Auckland, New Zealand. Best Conference Paper Runner-up Award.
+
+      - title: "The Impact of IT-enabled Manufacturing Capabilities on Plant Profitability: New Models and Evidence"
+        authors:
+          - Ayabakan, Sezgin
+          - Indranil Bardhan
+          - Zhiqiang Zheng
+        publisher: International Conference on Information Systems (ICIS)
+        releaseDate: 2012
+        summary: December 2012. Orlando, FL.
+
+    Reports:
+      - title: Maryland Million Hearts Evaluation for Maryland Department of Health and Mental Hygiene - Center for Chronic Disease Prevention and Control
+        authors:
+          - Di Franco, Tina
+          - Sezgin Ayabakan
+          - John Callahan
+          - Patria Julnes
+          - Ryan Frediksson
+        releaseDate: 2015
+        publisher: Schaefer Center for Public Policy, University of Baltimore
+        summary: Baltimore, MD.
+
+    Invited Talks:
+      - title: University of Minnesota
+        releaseDate: 2025-03
+        summary: Minneapolis, MN.
+
+      - title: Stony Brook University
+        releaseDate: 2024-01
+        summary: Stony Brook, NY.
+
+      - title: Lehigh University
+        releaseDate: 2023-11
+        summary: Bethlehem, PA.
+
+      - title: Oklahoma University
+        releaseDate: 2023-11
+        summary: Norman, OK.
+
+      - title: Drexel University
+        releaseDate: 2022-11
+        summary: Philadelphia, PA.
+
+      - title: Temple University, Fox Translational Research Center
+        releaseDate: 2020-06
+        summary: "The Translational Showcase - Panel Talk: Telehealth. Online."
+
+      - title: University at Buffalo
+        releaseDate: 2020-05
+        summary: Online.
+
+      - title: University of Rhode Island
+        releaseDate: 2018-04
+        summary: Kingston, RI.
+
+      - title: Saint Joseph’s University
+        releaseDate: 2017-01
+        summary: Philadelphia, PA.
+
+      - title: Temple University
+        releaseDate: 2017-01
+        summary: Philadelphia, PA.
+
+      - title: University of Connecticut
+        releaseDate: 2017-01
+        summary: Mansfield, CT.
+
+      - title: Stevens Institute of Technology
+        releaseDate: 2017-01
+        summary: Hoboken, NJ.
+
+      - title: Chinese University of Hong Kong
+        releaseDate: 2017-01
+        summary: Hong Kong.
+
+      - title: Tulane University
+        releaseDate: 2016-11
+        summary: New Orleans, LA.

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-19'
 papers:
   RdyRF0YAAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -10,7 +10,7 @@ papers:
     title: 'Signals that Matter: Gender, Content Framing, and Engagement in Online Communities of Practice'
     year: '2025'
   RdyRF0YAAAAJ:8k81kl-MbHgC:
-    citations: 31
+    citations: 32
     title: 'Value implications of sourcing electronic health records: the role of physician practice integration'
     year: '2023'
   RdyRF0YAAAAJ:IjCSPb-OGe4C:
@@ -50,7 +50,7 @@ papers:
     title: The Interplay Between Healthcare Information Technologies and Denied Claims
     year: '2025'
   RdyRF0YAAAAJ:W7OEmFMy1HYC:
-    citations: 111
+    citations: 113
     title: A Data Envelopment Analysis Approach to Estimate IT-Enabled Production Capability
     year: '2017'
   RdyRF0YAAAAJ:YOwf2qJgpHMC:
@@ -58,11 +58,11 @@ papers:
     title: 'Drivers of Telehealth Utilization for Mental Health Care: A Longitudinal Analysis Across a Pandemic Disruption'
     year: Unknown Year
   RdyRF0YAAAAJ:Zph67rFs4hoC:
-    citations: 11
+    citations: 12
     title: 'Judgmental Bot: Conversational Agents in Online Mental Health Screening'
     year: '2025'
   RdyRF0YAAAAJ:_FxGoFyzp5QC:
-    citations: 82
+    citations: 83
     title: User reactions to COVID-19 screening chatbots from reputable providers
     year: '2020'
   RdyRF0YAAAAJ:_kc_bZDykSQC:
@@ -90,6 +90,6 @@ papers:
     title: Maryland Department of Health and Mental Hygiene Center for Chronic Disease Prevention and Control Maryland Million Hearts Evaluation
     year: '2015'
   RdyRF0YAAAAJ:zYLM7Y9cAGgC:
-    citations: 174
+    citations: 175
     title: The Impact of Health Information Sharing on Duplicate Testing1
     year: '2017'
